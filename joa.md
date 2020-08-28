@@ -4,22 +4,30 @@ title : JOA
 css: Data_homepage
 ---
 
-<section id="call-to-action">
-  <div class="container wow fadeIn">
-    <div class="row">
-      <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
-        <br><br><br><br>
-        <h3 class="cta-title">About Dr. James Swift</h3>
-        <p class="cta-text">Dr. James Swift is a Research Oceanographer Emeritus at the UCSD Scripps Institution of Oceanography. His research interests include Arctic physical oceanography, ocean measurement and interpretation, and World Ocean water masses and circulation. He helps coordinate academic field activities for.US GO-SHIP and is past director of the CLIVAR and Carbon Hydrographic Data Office (CCHDO).With John "Oz" Osborne he created this suite of ocean data exploration tools and data for teaching and research.</p>
+  <section id="call-to-action">
+    <div class="container wow fadeIn">
+      <div class="row">
+        <div class="col-lg-9 text-center text-lg-left">
+          <h3 class="cta-title">"The Best" Vertical Section Data</h3>
+          <p class="cta-text">We have prepared ca. 2200 vertical sections from the original NODC data files contributing to SIO Professor Joseph Reid's ‘pre-WOCE’ (pre-1990s) World Ocean data collection. From the many thousands of cruises in NODC Archives, and some newer cruises originally from colleagues, over more than two decades Joe sifted for the best available data from each region of the World Ocean (except for the Arctic). His intended purpose was to make maps of water properties, and so he cut off stations from a cruise where a better (better for his purposes) cruise overlapped it. He made corrections to many of the data for known offsets (mostly standard seawater batch offsets). Here we went into the NODC files and retrieved the entire cruise data set for each cruise Joe used, assembled the stations into sensible vertical sections, applied the same corrections Joe used, and then we culled many bad data values. The resulting 2200 sections represent the basic data knowledge of the deep ocean basins prior to the 1990s. The data sets all include temperature and salinity, nearly all have dissolved oxygen data, and most have nutrient (NO3, PO4, and/or SiO3) data.</p>
+        </div>
+        <div class="col-lg-3 cta-btn-container text-center">
+          <a class="cta-btn align-middle" href="http://www.joaucsd.com/Atlantic_datapage.html">Pacific Ocean</a>
+          <br> <br>
+            <a class="cta-btn align-middle" href="Atlantic_datapage.html">Atlantic Ocean</a>
+            <br> <br>
+            <a class="cta-btn align-middle" href="http://www.joaucsd.com/Atlantic_datapage.html">Arctic Ocean</a>
+            <br> <br>
+            <a class="cta-btn align-middle" href="http://www.joaucsd.com/Atlantic_datapage.html">Indian Ocean</a>
+            <br> <br>
+            <a class="cta-btn align-middle" href="http://www.joaucsd.com/Atlantic_datapage.html">Southern Ocean</a>
+            <br> <br>
+            <a class="cta-btn align-middle" href="http://www.joaucsd.com/Atlantic_datapage.html">Other</a>
       </div>
-      <div class="col-lg-3 cta-btn-container text-center">
-          <a class="cta-btn align-middle" href="http://www.joaucsd.com/Atlantic_datapage.html">Pacific Ocean</a></div>
-      </div>
-  </div>
-</section><!-- #call-to-action -->
-<!--==========================
-Call To Action Section
-============================-->
+    </div>
+    </div>
+  </section>
+
 <section id="call-to-action1">
 <section id="call-to-action3">
   <div class="container wow fadeIn">
