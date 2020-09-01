@@ -42,11 +42,10 @@ Call To Action Section
           <p class="cta-text">These versions of JOA have been extensively tested, but there may be problems. If reporting a problem, please check and report the specific version and release date for your copy, which you can find via  'About Java OceanAtlas' under the Java OceanAtlas menu.</p>
           <br>
         </div>
-          <div class="col-lg-9 text-center text-lg-left">
-            <br>
+          <div class="col-lg-9 text-center text-lg-left">   
           <h3 class="cta-title" style="font-size:20px;">Mac OS X</h3>
           <p class="cta-text">Tested for Mac OS X 10.15 (Catalina) or greater. It may work on earlier versions of Mac OS X. This version of JOA contains an embedded Java environment and does not require a separate Java download.</p>
-          <br>
+          <br><br>
           <h3 class="cta-title" style="font-size:20px;">Windows</h3>
           <p class="cta-text">Tested for Windows 10. It has not been tested under Windows 8.1 or earlier versions of Windows. This version of JOA contains an embedded Java environment and does not require a separate Java download</p>
         </div>
