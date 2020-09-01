@@ -44,18 +44,18 @@ Call To Action Section
           <h3 class="cta-title" style="font-size:20px;">Mac OS X</h3>
           <p class="cta-text">Tested for Mac OS X 10.15 (Catalina) or greater. It may work on earlier versions of Mac OS X. This version of JOA contains an embedded Java environment and does not require a separate Java download.</p>
           <br>
-          <h3 class="cta-title" style="font-size:20px;">Mac OS X</h3>
+          <h3 class="cta-title" style="font-size:20px;">Windows</h3>
           <p class="cta-text">Tested for Windows 10. It has not been tested under Windows 8.1 or earlier versions of Windows. This version of JOA contains an embedded Java environment and does not require a separate Java download</p>
         </div>
         <div class="col-lg-3 cta-btn-container text-center">
-          <br><br><br><br><br><br><br>
+          <br><br><br><br><br><br><br><br><br>
           <h3 class="cta-title" style="font-size:20px;">Mac OS X</h3>
           <a class="cta-btn align-middle" href="http://www.joaucsd.com/Atlantic_datapage.html">Get JOA 5.5</a>
           <p class="cta-text" style="text-align:center;">(71 MB)</p>
-            <br> <br>
-            <h3 class="cta-title" style="font-size:20px;">Mac OS X</h3>
+          <br>
+            <h3 class="cta-title" style="font-size:20px;">Windows</h3>
           <a class="cta-btn align-middle" href="http://www.joaucsd.com/Atlantic_datapage.html">Get JOA 5.5</a>
-          <p class="cta-text" style="text-align:center;">(71 MB)</p>
+          <p class="cta-text" style="text-align:center;">(74 MB)</p>
       </div>
     </div>
     </div>
