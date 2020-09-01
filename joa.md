@@ -50,11 +50,11 @@ Call To Action Section
         <div class="col-lg-3 cta-btn-container text-center">
           <br><br><br><br><br><br><br><br><br>
           <h3 class="cta-title" style="font-size:20px;">Mac OS X</h3>
-          <a class="cta-btn align-middle" href="http://www.joaucsd.com/Atlantic_datapage.html">Get JOA 5.5</a>
+          <a class="cta-btn align-middle" href="#">Get JOA 5.5</a>
           <p class="cta-text" style="text-align:center;">(71 MB)</p>
           <br>
             <h3 class="cta-title" style="font-size:20px;">Windows</h3>
-          <a class="cta-btn align-middle" href="http://www.joaucsd.com/Atlantic_datapage.html">Get JOA 5.5</a>
+          <a class="cta-btn align-middle" href="#">Get JOA 5.5</a>
           <p class="cta-text" style="text-align:center;">(74 MB)</p>
       </div>
     </div>
