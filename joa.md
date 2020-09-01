@@ -43,6 +43,7 @@ Call To Action Section
           <br>
         </div>
           <div class="col-lg-9 text-center text-lg-left">
+            <br>
           <h3 class="cta-title" style="font-size:20px;">Mac OS X</h3>
           <p class="cta-text">Tested for Mac OS X 10.15 (Catalina) or greater. It may work on earlier versions of Mac OS X. This version of JOA contains an embedded Java environment and does not require a separate Java download.</p>
           <br>
