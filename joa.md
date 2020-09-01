@@ -4,26 +4,20 @@ title : JOA
 css: Data_homepage
 ---
 
-  <section id="call-to-action">
-    <div class="container wow fadeIn">
-      <br><br>
-      <div class="row">
-        <div class="col-lg-9 text-center text-lg-left">
-          <h3 class="cta-title">Java OceanAtlas Application</h3>
-          <p class="cta-text">Java OceanAtlas (JOA) is a Java application for Windows and MacOS which provides
-an ad hoc (rather than pre-set) graphic exploration environment optimized to examine
-and plot oceanographic profile data. JOA works with any pressure- or depth-indexed
-data. Plots include property-property plots, maps, offset profiles (waterfall), contoured
-section plots, and plots of calculated values, using color-by-property-value as a plotted
-variable to aid interpretation. There is also a comprehensive data display window and
-extensive support for data import, export, editing, filtering and quality control functions.
-All Java OceanAtlas plots and the data window are linked and may be ‘browsed’ jointly
-by sample and/or station. JOA user interfaces are similar to those used in commercial
-applications. Many different types of calculations can be performed.</p>
-        </div>   
+<section id="call-to-action2">
+<section id="call-to-action">
+  <div class="container wow fadeIn">
+    <br><br><br>
+    <div class="row">
+      <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
+        <h3 class="cta-title">Java OceanAtlas Application</h3>
+        <p class="cta-text">Java OceanAtlas (JOA) is a Java application for Windows and MacOS which provides an ad hoc (rather than pre-set) graphic exploration environment optimized to examine and plot oceanographic profile data. JOA works with any pressure- or depth-indexed data. Plots include property-property plots, maps, offset profiles (waterfall), contoured section plots, and plots of calculated values, using color-by-property-value as a plotted variable to aid interpretation. There is also a comprehensive data display window and extensive support for data import, export, editing, filtering and quality control functions. All Java OceanAtlas plots and the data window are linked and may be ‘browsed’ jointly by sample and/or station. JOA user interfaces are similar to those used in commercial applications. Many different types of calculations can be performed.</p>
+      </div>
     </div>
-    </div>
-  </section>
+
+  </div>
+</section>
+</section><!-- #call-to-action -->
 
 <section id="call-to-action1">
 <section id="call-to-action3">
