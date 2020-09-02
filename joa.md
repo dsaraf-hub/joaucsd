@@ -72,13 +72,9 @@ Call To Action Section
 netCDF files and the need to make a plot before browsing.</p>
         </div>
         <div class="col-lg-3 cta-btn-container text-center">
-          <h3 class="cta-title1" style="font-size:20px;">Mac OS X</h3>
-          <a class="cta-btn1 align-middle" href="#">Get JOA 5.5</a>
-          <p class="cta-text1" style="text-align:center;">(71 MB)</p>
+          <a class="cta-btn1 align-middle" href="https://archive.h2o.ucsd.edu/virtualcruise/">Explore</a>
           <br><br><br>
-            <h3 class="cta-title1" style="font-size:20px;">Windows</h3>
           <a class="cta-btn1 align-middle" href="#">Get JOA 5.5</a>
-          <p class="cta-text1" style="text-align:center;">(74 MB)</p>
       </div>
         <div class="col-lg-9 text-center text-lg-left">
           <h3 class="cta-title1" style="font-size:20px;">Mac OS X</h3>
