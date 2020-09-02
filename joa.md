@@ -22,7 +22,7 @@ css: Data_homepage
 <section id="call-to-action1">
 <section id="call-to-action3">
   <div class="container wow fadeIn">
-      <div class="col-lg-9 text-center text-lg-left"  style="flex:0 0 100%;max-width:100%">
+      <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
         <h3 class="cta-title1">About Java OceanAtlas</h3>
         <p class="cta-text1" style="text-align:justify">Java OceanAtlas was developed by oceanographic applications specialist John "Oz" Osborne (OceanAtlas Software, Vashon Island, Washington),with recent assistance from his daughter,Maria Osborne,working with Dr. James Swift. Read about the Background of Java OceanAtlas.</p>
       </div>
@@ -69,12 +69,10 @@ Call To Action Section
         <div class="col-lg-3 cta-btn1-container text-center">
           <a class="cta-btn1 align-middle" href="https://archive.h2o.ucsd.edu/virtualcruise/">Explore</a>
         </div>
-        <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
+        <div class="col-lg-9 text-center text-lg-left">
           <h3 class="cta-title1">JOA for earlier MacOS and Windows versions (JOA 5.3)</h3>
           <p class="cta-text1">JOA 5.3 is tested and stable, but there are known problems, including issues with
 netCDF files and the need to make a plot before browsing.</p>
-        </div>
-        <div class="col-lg-9 text-center text-lg-left">
           <h3 class="cta-title1" style="font-size:20px;">Windows</h3>
           <p class="cta-text1">Tested for Mac OS X 10.15 (Catalina) or greater. It may work on earlier versions of Mac OS X. This version of JOA contains an embedded Java environment and does not require a separate Java download.</p>
           <br><br>
