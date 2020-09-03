@@ -26,8 +26,8 @@ css: Data_homepage
         <h3 class="cta-title">Install</h3>
         <p class="cta-text">
           <a href="http://joa.ucsd.edu/joa/joa_download_instructions.html"><li>General installation instructions</li></a>
-          <li>Mac specific installation instructions</li>
-          <li>Windows specific installation instructions</li>
+          <a href="http://joa.ucsd.edu/joa/joa_download_mac.html"><li>Mac specific installation instructions</li></a>
+          <a href="http://joa.ucsd.edu/joa/joa_download_windows.html"><li>Windows specific installation instructions</li></a>
         </p>
       </div>
 
@@ -69,24 +69,28 @@ Call To Action Section
  <section id="call-to-action1">
   <section id="call-to-action3">
     <div class="container wow fadeIn">
-      <div class="row">
-        <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
-          <h3 class="cta-title1">JOA for earlier MacOS and Windows versions (JOA 5.3)</h3>
-          <p class="cta-text1">JOA 5.3 is tested and stable, but there are known problems, including issues with
+      <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
+          <h3 class="cta-title">JOA for earlier MacOS and Windows versions (JOA 5.3)</h3>
+          <p class="cta-text">JOA 5.3 is tested and stable, but there are known problems, including issues with
 netCDF files and the need to make a plot before browsing.</p>
+          <br>
+        </div>
+        <div class="col-lg-9 text-center text-lg-left">   
+          <h3 class="cta-title" style="font-size:20px;">Mac OS X</h3>
+          <p class="cta-text">Tested for Mac OS X 10.11 or earlier. It may work on earlier versions of Mac OS X. This version of JOA contains an embedded Java environment and does not require a separate Java download.</p>
+          <br><br>
+          <h3 class="cta-title" style="font-size:20px;">Windows</h3>
+          <p class="cta-text">Tested for Windows 7, 8, and 8.1. It has not been tested under Windows 10 or XP. This version of JOA contains an embedded Java environment and does not require a separate Java download.</p>
         </div>
         <div class="col-lg-3 cta-btn-container text-center">
-          <a class="cta-btn align-middle" href="#">Get JOA 5.4</a>
+          <h3 class="cta-title" style="font-size:20px;">Mac OS X</h3>
+          <a class="cta-btn align-middle" href="#">Get JOA 5.3</a>
+          <p class="cta-text" style="text-align:center;">(71 MB)</p>
           <br>
-          <a class="cta-btn align-middle" href="#">Get JOA 5.4</a>
+            <h3 class="cta-title" style="font-size:20px;">Windows</h3>
+          <a class="cta-btn align-middle" href="#">Get JOA 5.3</a>
+          <p class="cta-text" style="text-align:center;">(74 MB)</p>
       </div>
-        <div class="col-lg-9 text-center text-lg-left">
-          <h3 class="cta-title1" style="font-size:20px;">Mac OS X</h3>
-          <p class="cta-text1">Tested for Mac OS X 10.11 or earlier. It may work on earlier versions of Mac OS X. This version of JOA contains an embedded Java environment and does not require a separate Java download.</p>
-          <br><br>
-          <h3 class="cta-title1" style="font-size:20px;">Windows</h3>
-          <p class="cta-text1">Tested for Windows 7, 8, and 8.1. It has not been tested under Windows 10 or XP. This version of JOA contains an embedded Java environment and does not require a separate Java download.</p>
-        </div>
       </div>
     </div>
   </section>
