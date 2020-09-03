@@ -107,16 +107,28 @@ netCDF files and the need to make a plot before browsing.</p>
 <!--==========================
 Call To Action Section
 ============================-->
-<section id="call-to-action2">
-<section id="call-to-action">
-<div class="container wow fadeIn">
-  <div class="row">
-    <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
-      <h3 class="cta-title">About the DPO JOA Examples</h3>
-      <p class="cta-text">Read about the <a href="http://joa.ucsd.edu/dpo/dpo_joa_examples/background/index.html"><u>Background of the DPO JOA Examples.</u></a></p>
+
+<section id="call-to-action1">
+<section id="call-to-action3">
+    <div class="container wow fadeIn">
+      <div class="row">
+        <div class="col-lg-9 text-center text-lg-left" style="max-width:50%">   
+         <h3 class="cta-title">Install</h3>
+        <p class="cta-text">
+          <li><a href="http://joa.ucsd.edu/joa/joa_download_instructions.html">General installation instructions</a></li>
+          <li><a href="http://joa.ucsd.edu/joa/joa_download_mac.html">Mac specific installation instructions</a></li>
+          <li><a href="http://joa.ucsd.edu/joa/joa_download_windows.html">Windows specific installation instructions</a></li>
+        </p>
+        </div>
+        <div class="col-lg-3 cta-btn-container text-center" style="display:block;max-width:50%">
+          <h3 class="cta-title" style="text-align:right">Install</h3>
+        <p class="cta-text" style="text-align:right">
+          <li><a href="http://joa.ucsd.edu/joa/joa_download_instructions.html">General installation instructions</a></li>
+          <li><a href="http://joa.ucsd.edu/joa/joa_download_mac.html">Mac specific installation instructions</a></li>
+          <li><a href="http://joa.ucsd.edu/joa/joa_download_windows.html">Windows specific installation instructions</a></li>
+        </p>
+      </div>
     </div>
   </div>
-
-</div>
-</section>
-</section><!-- #call-to-action -->
+  </section>
+    </section>
