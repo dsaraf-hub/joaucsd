@@ -120,7 +120,7 @@ Call To Action Section
           <li><a href="http://joa.ucsd.edu/joa/joa_download_windows.html">Windows specific installation instructions</a></li>
         </p>
         </div>
-        <div class="col-rg-3 cta-btn-container text-center" style="display:block;max-width:50%">
+        <div class="col-lg-3 cta-btn-container text-center" style="display:block;max-width:50%">
           <h3 class="cta-title" style="text-align:right">Install</h3>
         <p class="cta-text" style="text-align:right">
           <li style="text-align:right"><a href="http://joa.ucsd.edu/joa/joa_download_instructions.html">General installation instructions</a></li>
