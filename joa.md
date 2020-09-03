@@ -84,7 +84,7 @@ netCDF files and the need to make a plot before browsing.</p>
           <h3 class="cta-title" style="font-size:20px;">Windows</h3>
           <p class="cta-text">Tested for Windows 7, 8, and 8.1. It has not been tested under Windows 10 or XP. This version of JOA contains an embedded Java environment and does not require a separate Java download.</p>
         </div>
-        <div class="col-lg-3 cta-btn-container text-center">
+        <div class="col-lg-3 cta-btn-container text-center" style="display:block;">
           <h3 class="cta-title" style="font-size:20px;">Mac OS X</h3>
           <a class="cta-btn align-middle" href="#">Get JOA 5.3</a>
           <p class="cta-text" style="text-align:center;">(71 MB)</p>
