@@ -30,9 +30,9 @@ css: Data_homepage
           <li><a href="http://joa.ucsd.edu/joa/joa_download_windows.html">Windows specific installation instructions</a></li>
         </p>
       </div>
-      <div class="col-lg-9 text-center text-lg-left">
-        <h3 class="cta-title">About Java OceanAtlas</h3>
-        <p class="cta-text" style="text-align:justify">Hey</p>
+      <div class="col-lg-9 text-center text-lg-right" style="flex:0 0 100%;max-width:100%">
+        <h3 class="cta-title" style="text-align:right">About Java OceanAtlas</h3>
+        <p class="cta-text" style="text-align:right">Hey</p>
       </div>
     </div>
 </section>
