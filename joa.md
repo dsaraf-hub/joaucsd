@@ -91,7 +91,6 @@ netCDF files and the need to make a plot before browsing.</p>
           <a class="cta-btn align-middle" href="#">Get JOA 5.3</a>
           <p class="cta-text" style="text-align:center;">(74 MB)</p>
       </div>
-      </div>
     </div>
   </section>
 </section><!-- #call-to-action -->
