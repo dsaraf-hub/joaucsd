@@ -65,10 +65,11 @@ Call To Action Section
     </div>
     </div>
   </section><!-- #call-to-action -->
-  
 
-<section id="call-to-action">
-    <div class="container wow fadeIn" style="background:white;color:black;">
+
+<section id="call-to-action1">
+<section id="call-to-action3">
+    <div class="container wow fadeIn">
       <div class="row">
       <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
           <h3 class="cta-title">JOA for earlier MacOS and Windows versions (JOA 5.3)</h3>
@@ -95,6 +96,7 @@ netCDF files and the need to make a plot before browsing.</p>
     </div>
   </div>
   </section>
+    </section>
 
 
 <!--==========================
