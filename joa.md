@@ -25,9 +25,9 @@ css: Data_homepage
       <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
         <h3 class="cta-title">Install</h3>
         <p class="cta-text">
-          <a href="http://joa.ucsd.edu/joa/joa_download_mac.html"><li>General installation instructions</li></a>
-          <a href="http://joa.ucsd.edu/joa/joa_download_mac.html"><li>Mac specific installation instructions</li></a>
-          <a href="http://joa.ucsd.edu/joa/joa_download_windows.html"><li>Windows specific installation instructions</li></a>
+          <li><a href="http://joa.ucsd.edu/joa/joa_download_instructions.html">General installation instructions</a></li>
+          <li><a href="http://joa.ucsd.edu/joa/joa_download_mac.html">Mac specific installation instructions</a></li>
+          <li><a href="http://joa.ucsd.edu/joa/joa_download_windows.html">Windows specific installation instructions</a></li>
         </p>
       </div>
 
