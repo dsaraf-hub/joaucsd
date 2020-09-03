@@ -67,8 +67,7 @@ Call To Action Section
   </section><!-- #call-to-action -->
   
 
-<section id="call-to-action1">
-<section id="call-to-action3">
+<section id="call-to-action">
     <div class="container wow fadeIn">
       <div class="row">
       <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
@@ -96,7 +95,7 @@ netCDF files and the need to make a plot before browsing.</p>
     </div>
   </div>
   </section>
-  </section>
+
 
 <!--==========================
 Call To Action Section
