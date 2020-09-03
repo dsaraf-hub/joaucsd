@@ -68,7 +68,7 @@ Call To Action Section
   
 
 <section id="call-to-action">
-    <div class="container wow fadeIn">
+    <div class="container wow fadeIn" style="background:white;color:black;">
       <div class="row">
       <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
           <h3 class="cta-title">JOA for earlier MacOS and Windows versions (JOA 5.3)</h3>
