@@ -67,8 +67,10 @@ Call To Action Section
   </section><!-- #call-to-action -->
   
 
-  <section id="call-to-action">
+<section id="call-to-action1">
+<section id="call-to-action3">
     <div class="container wow fadeIn">
+      <div class="row">
       <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
           <h3 class="cta-title">JOA for earlier MacOS and Windows versions (JOA 5.3)</h3>
           <p class="cta-text">JOA 5.3 is tested and stable, but there are known problems, including issues with
@@ -92,6 +94,8 @@ netCDF files and the need to make a plot before browsing.</p>
           <p class="cta-text" style="text-align:center;">(74 MB)</p>
       </div>
     </div>
+  </div>
+  </section>
   </section>
 
 <!--==========================
