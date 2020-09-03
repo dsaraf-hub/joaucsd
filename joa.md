@@ -23,8 +23,12 @@ css: Data_homepage
 <section id="call-to-action3">
   <div class="container wow fadeIn">
       <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
-        <h3 class="cta-title1">Install</h3>
-        <p class="cta-text" style="text-align:justify"><li>General installation instructions</li><li>General installation instructions</li></p>
+        <h3 class="cta-title">Install</h3>
+        <p class="cta-text">
+          <a href="http://joa.ucsd.edu/joa/joa_download_instructions.html"><li>General installation instructions</li></a>
+          <li>Mac specific installation instructions</li>
+          <li>Windows specific installation instructions</li>
+        </p>
       </div>
 
     </div>
