@@ -23,8 +23,8 @@ css: Data_homepage
 <section id="call-to-action3">
   <div class="container wow fadeIn">
       <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
-        <h3 class="cta-title1">About Java OceanAtlas</h3>
-        <p class="cta-text1" style="text-align:justify">Java OceanAtlas was developed by oceanographic applications specialist John "Oz" Osborne (OceanAtlas Software, Vashon Island, Washington),with recent assistance from his daughter,Maria Osborne,working with Dr. James Swift. Read about the Background of Java OceanAtlas.</p>
+        <h3 class="cta-title1">Install</h3>
+        <p class="cta-text" style="text-align:justify"><li>General installation instructions</li><li>General installation instructions</li></p>
       </div>
 
     </div>
