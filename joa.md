@@ -31,8 +31,8 @@ css: Data_homepage
         </p>
       </div>
       <div class="col-lg-9 text-center text-lg-left">
-        <h3 class="cta-title1">About Java OceanAtlas</h3>
-        <p class="cta-text1" style="text-align:justify">Hey</p>
+        <h3 class="cta-title">About Java OceanAtlas</h3>
+        <p class="cta-text" style="text-align:justify">Hey</p>
       </div>
     </div>
 </section>
