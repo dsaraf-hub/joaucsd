@@ -6,28 +6,13 @@ css: Data_homepage
 
 <br><br><br><br><br>
        <div id="box" class="container-fluid">
-      <div id="header">
-        <img alt="Logo" src="/static/images/logo.png">
-        <div id="nav">
-          <ul class="menu">
-            <li><a href="/home">Home</a></li>
-            <li><a href="/joa">JOA application</a></li>
-            <li><a href="/data">JOA data</a></li>
-            <li><a href="/dpo/">DPO JOA Examples</a></li>
-          </ul>	
-        </div>
-      </div>
-
       <div id="container" class="tour page  row-fluid">
         <div id="main_content" class="contained span8">
-          <div id="top"></div>
-          
-          
+          <div id="top"></div>    
 <div id="guided_tour">
 	<h1>Guided Tour of Java OceanAtlas </h1>
 	<h2>Starting Java OceanAtlas</h2>
 	<div id="guided_tour_content">
-
 	<p>Start the Java OceanAtlas application (e.g., by double-clicking on its icon). You will see a small window. On Windows and Linux, JOA's menubar is contained in this initial window (hence it's presence). On Mac OS X, JOA's menubar is at the top of the screen in adherance to Apple's UI conventions.</p>
 	<p>Use the open command in the File menu to locate and open the Atlantic 11&deg;S .poa data file. A few seconds later the standard Data Window will open (Figure 1).</p>
 	<div class="gt_fig">
@@ -48,11 +33,8 @@ css: Data_homepage
 	<p>West-to-east and south-to-north are preferred for left-to-right section orientations by the author (Swift) and many of his colleagues at the Scripps Institution of Oceanography. Many of the Java OceanAtlas data files are organized to reflect this preference.</p>
 </div>
 </div>
-
-        </div>
-        
-        <div id="right" class="span4">
-          
+        </div>   
+        <div id="right" class="span4">      
 <h1>Guided Tour of Java OceanAtlas</h1>
 <ul>
   <li><a href="/tour/1">Basic Features</a></li>
@@ -72,12 +54,9 @@ css: Data_homepage
   <li><a href="/tour/15">Final Remarks</a></li>
   <li><a href="/tour/16">Java OceanAtlas Data Files</a></li>
 </ul>
-<p><a href="/joa" class="btn">Back to JOA application</a></p>
-
-        </div>
-        
+	<p><a href="/joa" class="btn">Back to JOA application</a></p>
+        </div>    
       </div>
-
       <div id="footer">
         <table>
           <tbody>
