@@ -4,31 +4,59 @@ title : test
 css: Data_homepage
 ---
 
-<br><br><br>
-   <div id="box" class="container-fluid">	
+<br><br><br><br><br>
+       <div id="box" class="container-fluid">
+      <div id="header">
+        <img alt="Logo" src="/static/images/logo.png">
+        <div id="nav">
+          <ul class="menu">
+            <li><a href="/home">Home</a></li>
+            <li><a href="/joa">JOA application</a></li>
+            <li><a href="/data">JOA data</a></li>
+            <li><a href="/dpo/">DPO JOA Examples</a></li>
+          </ul>	
+        </div>
+      </div>
+
       <div id="container" class="tour page  row-fluid">
         <div id="main_content" class="contained span8">
           <div id="top"></div>
-              
+          
+          
 <div id="guided_tour">
 	<h1>Guided Tour of Java OceanAtlas </h1>
 	<h2>Starting Java OceanAtlas</h2>
 	<div id="guided_tour_content">
-		<p>Start the Java OceanAtlas application (e.g., by double-clicking on its icon). You will see a small window. On Windows and Linux, JOA's menubar is contained in this initial window (hence it's presence). On Mac OS X, JOA's menubar is at the top of the screen in adherance to Apple's UI conventions.</p>
+
+	<p>Start the Java OceanAtlas application (e.g., by double-clicking on its icon). You will see a small window. On Windows and Linux, JOA's menubar is contained in this initial window (hence it's presence). On Mac OS X, JOA's menubar is at the top of the screen in adherance to Apple's UI conventions.</p>
 	<p>Use the open command in the File menu to locate and open the Atlantic 11&deg;S .poa data file. A few seconds later the standard Data Window will open (Figure 1).</p>
-		<p>The Data Window provides a common reference for the Java OceanAtlas plots. As we will see in Browsing, parts of it act like a movable magnifying glass on the data set. The Data Window can be moved anywhere on your monitor by click/holding on the title bar and dragging it.</p>
+	<div class="gt_fig">
+    <img alt="Gt_fig-01" class="gt_image" src="/static/images/guided_tour/gt_fig-01.jpg">
+    <p class="gt_caption">Figure 1 The Java OceanAtlas Data Window, shown for the &deg;Atlantic 11&deg;S&deg; data set, with annotation</p></div>
+
+<p>The Data Window provides a common reference for the Java OceanAtlas plots. As we will see in Browsing, parts of it act like a movable magnifying glass on the data set. The Data Window can be moved anywhere on your monitor by click/holding on the title bar and dragging it.</p>
 
 <p>If you are new to oceanography you might not be aware that one of the methods oceanographers utilize to collect information about the origin and circulation of ocean waters is to occupy - from a research vessel - a line of &deg;stations&deg;  across a region of interest. Such a line is usually called a &deg;section&deg;. A &deg;statio&deg; is a location where the ship stops and takes observations, in this case of the physical/chemical characteristics of the water column. (There are many different types of oceanographic expeditions and observations. Here we focus on the types which produce the data Java OceanAtlas was designed to explore.)</p>
 
 <p>Water column measurements made from the end of the 1800s through the 1970s were typically made by attaching water bottles (with open lids) onto a wire lowered into the ocean. When all the bottles were deployed at the intended levels a &#39;messenger&#39; (brass weight) was dropped down the wire. When a messenger reached a water bottle it closed the bottle, caused a deep-sea reversing thermometer to reverse (and thus break the mercury column and preserve its temperature reading), and release another messenger to head down to the next bottle, and so on.</p>
-	</div>
+
+<p>Beginning in the early 1970&#39;s a new device, the rosette water sampler, began to replace bottle-on-wire casts. The rosette is frame which holds a CTD (an electronic profiling device which samples Conductivity, Temperature, and Depth), ca. 12-36 water sampling bottles, a central closure-control mechanism referred to as a pylon, and sometimes other equipment. The frame is usually attached to an armored conducting cable, and can be lowered into the ocean. An operator on deck can communicate with the underwater package via the conductor in the cable. Typically the CTD profiles are collected as the rosette descends and the water samples are collected (by closing the bottles by electronic remote control) on the up cast, along with CTD values at the times each bottle is closed. The CTD typically supplies the temperature and pressure at which a bottle is closed, and laboratory analyses for other parameters are made from the water collected in the closed bottles. Typically - but not always - salinity, oxygen, and the inorganic nutrient salts nitrate (NO3; usually analyzed as &#39;NO3 + NO2&#39;, with NO2 - which is usually very small - being subtracted out after running analyses for it alone), phosphate (PO4), and silicate (SiO3) are routinely analyzed from the water samples. In recent years increasing attention has been given to analyses of what some oceanographers call &#39;tracers&#39; (although temperature, salinity, oxygen, and nutrients made excellent tracers, too; it&#39;s just habit and nomenclature). These include substances such as CFCs, tritium, helium, radiocarbon, and so on. The list recognized by the WOCE Hydrographic Program Office contains 48 parameters plus 12 ancillary measurements.</p>
+
+<p>Physical oceanographers studying the large-scale water masses tend to make the most consistent use of temperature, salinity, oxygen, and nutrient data from full-depth profiles. Basin-scale work requires basin-spanning data. And so many of the great oceanographic sections cross major basins, include full-depth stations whose horizontal and vertical resolution are reasonably well matched to large ocean scales, and include the full suite of routine hydrographic data. These form the backbone of the ocean data sets included with Java OceanAtlas, along with many shorter sections of proven value and the multi-tracer WOCE Hydrographic Program sections. We tend to focus on the bottle data in OceanAtlas because these are relatively compact, cover the large-scale fields well, and include many parameters of interest.</p>
+
+<p>This Atlantic 11&deg;S section of 80 full-depth T/S/O2/nutrient stations was occupied by scientists from the Woods Hole Oceanographic Institution from Africa to South America during 13 March to 1 April 1983 from the WHOI research vessel Oceanus. It is a favorite Java OceanAtlas demonstration section because it is relatively compact, crosses an interesting ocean region, and the data are of good quality and reasonably complete. We have reversed the station order so that Java OceanAtlas will display the section from west on the left to east on the right.
+	<p>West-to-east and south-to-north are preferred for left-to-right section orientations by the author (Swift) and many of his colleagues at the Scripps Institution of Oceanography. Many of the Java OceanAtlas data files are organized to reflect this preference.</p>
 </div>
-        </div>   
-        <div id="right" class="span4">        
+</div>
+
+        </div>
+        
+        <div id="right" class="span4">
+          
 <h1>Guided Tour of Java OceanAtlas</h1>
 <ul>
-  <li class="active"><a href="/tour/1">Basic Features</a></li>
-  <li><a href="/tour/2">Starting JOA</a></li>
+  <li><a href="/tour/1">Basic Features</a></li>
+  <li class="active"><a href="/tour/2">Starting JOA</a></li>
   <li><a href="/tour/3">Station Maps</a></li>
   <li><a href="/tour/4">Profile Plots</a></li>
   <li><a href="/tour/5">Changing Color/Contour Bar</a></li>
@@ -45,7 +73,65 @@ css: Data_homepage
   <li><a href="/tour/16">Java OceanAtlas Data Files</a></li>
 </ul>
 <p><a href="/joa" class="btn">Back to JOA application</a></p>
-        </div> 
+
+        </div>
+        
       </div>
+
+      <div id="footer">
+        <table>
+          <tbody>
+            <tr>
+              <td>
+                <h1>Quick Navigation</h1>
+                <ul>
+                  <li><a href="#top">Back to Top</a></li>
+                  <li><a href="/">Home</a></li>
+                </ul>
+              </td>
+
+              <td>
+                <h1>About Us</h1>
+                <ul>
+                  <li><a href="/home/aboutus.html">About</a></li>
+                  <li><a href="/home/siteguide.html">Site Guide</a></li>
+                </ul>
+              </td>
+
+              <td>
+                <h1>Legal</h1>
+                <ul>
+                  <li><a href="javascript:;">Terms of Use
+                      <span class="infopopup">
+                        <p>JOA application</p>
+                        <p>The Java OceanAtlas application is copyrighted by John Osborne. It cannot be sold, re-packaged, or modified without his direct consent.</p><br />
+                        <p>DPO JOA Examples</p>
+                        <p>Copyright  2011 Elsevier Inc. All rights reserved</p>
+                      </span>
+                    </a></li>
+                    <li><a href="javascript:;">Funding
+                        <span class="infopopup">Java OceanAtlas was developed with support from the US National Science Foundation <img alt="Nsf_banner" src="/static/images/nsf_banner.png"> 
+                      </a></li>
+                </ul>
+              </td>
+              <td>
+                <h1>Learn More</h1>
+                <ul>
+                  <li><a href="/home/contact.html">Contact Us</a></li>
+                  <li><a href="http://ushydro.ucsd.edu/outreach">Outreach on USHydro</a></li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </div>
+      <div id="footer_funding">
+        <ul>
+          <li><img alt="Clivar_logo" src="/static/images/clivar_logo.jpg"></li>
+          <li><img alt="Nsf_logo" src="/static/images/nsf_logo.jpg"></li>
+          <li><img alt="Sio_logo" src="/static/images/sio_logo.gif"></li>
+        </ul>
+      </div>
+
+    </div>
      
