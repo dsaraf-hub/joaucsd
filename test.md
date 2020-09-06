@@ -5,19 +5,19 @@ css: joa
 ---
 
 <br><br><br><br><br>
-  <div id="box" class="container-fluid">
-      <div id="container" class="tour page  row-fluid">
-        <div id="main_content" class="contained span8">
-          <div id="top"></div>        
+<div id="box" class="container-fluid">
+<div id="container" class="tour page  row-fluid">
+<div id="main_content" class="contained span8">
+<div id="top"></div>        
 <div id="guided_tour">
 	<h1>Guided Tour of Java OceanAtlas </h1>
 	<h2>Basic Features</h2>
 	<div id="guided_tour_content">
-		<p>This tutorial provides an introduction of the basic use of Java OceanAtlas to explore oceanographic data. It is organized from the most basic features to intermediate ones. Not all features are covered. Users new to Java OceanAtlas will probably want to work through this tutorial in order, because it is written assuming understanding of the previous section. Just click the right arrow at the top or bottom of the page to go to the next section.</p>
-		<p>[NOTE: The guided tour is based upon Java OceanAtlas 4.0. Some features have changed slightly in JOA version 5, but the basic functions are the same.]</p>
-		<p class="oceanography_text">	A bit of basic oceanography is thrown in, too. Such text is indicated by use of blue text.</p>
-		<p>	The appearance (the look and feel) of Java OceanAtlas dialog boxes and windows is different on Windows, Mac OS, and UNIX computers. Java OceanAtlas uses the "native" look and feel of your computer's operating system. Where possible, JOA has been changed to adhere to specific user-interface standards for your operating system. The examples shown in this tutorial were created on a Windows computer.</p>
-	</div>
+	<p>This tutorial provides an introduction of the basic use of Java OceanAtlas to explore oceanographic data. It is organized from the most basic features to intermediate ones. Not all features are covered. Users new to Java OceanAtlas will probably want to work through this tutorial in order, because it is written assuming understanding of the previous section. Just click the right arrow at the top or bottom of the page to go to the next section.</p>
+	<p>[NOTE: The guided tour is based upon Java OceanAtlas 4.0. Some features have changed slightly in JOA version 5, but the basic functions are the same.]	</p>
+	<p class="oceanography_text">	A bit of basic oceanography is thrown in, too. Such text is indicated by use of blue text.</p>
+	<p>The appearance (the look and feel) of Java OceanAtlas dialog boxes and windows is different on Windows, Mac OS, and UNIX computers. Java OceanAtlas uses the "native" look and feel of your computer's operating system. Where possible, JOA has been changed to adhere to specific user-interface standards for your operating system. The examples shown in this tutorial were created on a Windows computer.</p>
+</div>
 </div>
         </div>     
         <div id="right" class="span4">        
@@ -44,4 +44,4 @@ css: joa
         </div>       
       </div>
       </div>
-     
+     </div>
