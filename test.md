@@ -19,11 +19,8 @@ css: joa
 		<p>	The appearance (the look and feel) of Java OceanAtlas dialog boxes and windows is different on Windows, Mac OS, and UNIX computers. Java OceanAtlas uses the "native" look and feel of your computer's operating system. Where possible, JOA has been changed to adhere to specific user-interface standards for your operating system. The examples shown in this tutorial were created on a Windows computer.</p>
 	</div>
 </div>
-
-        </div>
-        
-        <div id="right" class="span4">
-          
+        </div>     
+        <div id="right" class="span4">        
 <h1>Guided Tour of Java OceanAtlas</h1>
 <ul>
   <li class="active"><a href="/tour/1">Basic Features</a></li>
@@ -44,9 +41,7 @@ css: joa
   <li><a href="/tour/16">Java OceanAtlas Data Files</a></li>
 </ul>
 <p><a href="/joa" class="btn">Back to JOA application</a></p>
-
-        </div>
-        
+        </div>       
       </div>
       </div>
      
