@@ -4,7 +4,7 @@ title : test
 css: Data_homepage
 ---
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
  <div id="box" class="container-fluid">
       <div id="container" class="tour page  row-fluid">
         <div id="main_content" class="contained span8">
