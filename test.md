@@ -4,8 +4,6 @@ title : test
 css: Data_homepage
 ---
 
-
-      <section id="call-to-action2">
 <section id="call-to-action">
   <div class="container wow fadeIn">
     <br><br><br>
@@ -18,7 +16,7 @@ css: Data_homepage
 
   </div>
 </section>
-</section><!-- #call-to-action -->
+
 
 <section id="call-to-action1">
 <section id="call-to-action3">
