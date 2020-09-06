@@ -32,7 +32,6 @@ css: Data_homepage
 	<p>West-to-east and south-to-north are preferred for left-to-right section orientations by the author (Swift) and many of his colleagues at the Scripps Institution of Oceanography. Many of the Java OceanAtlas data files are organized to reflect this preference.</p>
 </div>
 </div>
-
         </div>  
         <div id="right" class="span4">          
 <h1>Guided Tour of Java OceanAtlas</h1>
