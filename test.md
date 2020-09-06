@@ -5,8 +5,8 @@ css: joa
 ---
 
 <br><br><br><br><br>
-<div id="box" class="container-fluid">
-<div id="container" class="tour page  row-fluid">
+<center>
+<div id="container" class="tour page  row-fluid" style="max-width:150vh">
 <div id="main_content" class="contained span8">
 <div id="top"></div>        
 <div id="guided_tour">
@@ -43,4 +43,4 @@ css: joa
 <p><a href="/joa" class="btn">Back to JOA application</a></p>
         </div>       
       </div>
-      </div>
+</center>
