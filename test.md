@@ -5,35 +5,23 @@ css: Data_homepage
 ---
 
 <br><br><br>
- <div id="box" class="container-fluid">
+   <div id="box" class="container-fluid">	
       <div id="container" class="tour page  row-fluid">
         <div id="main_content" class="contained span8">
           <div id="top"></div>
+              
 <div id="guided_tour">
 	<h1>Guided Tour of Java OceanAtlas </h1>
-	<h2>Starting Java OceanAtlas</h2>
+	<h2>Basic Features</h2>
 	<div id="guided_tour_content">
-	<p>Start the Java OceanAtlas application (e.g., by double-clicking on its icon). You will see a small window. On Windows and Linux, JOA's menubar is contained in this initial window (hence it's presence). On Mac OS X, JOA's menubar is at the top of the screen in adherance to Apple's UI conventions.</p>
-	<p>Use the open command in the File menu to locate and open the Atlantic 11&deg;S .poa data file. A few seconds later the standard Data Window will open (Figure 1).</p>
-	<div class="gt_fig">
-    <img alt="Gt_fig-01" class="gt_image" src="http://joa.ucsd.edu/static/images/guided_tour/gt_fig-01.jpg">
-    <p class="gt_caption">Figure 1 The Java OceanAtlas Data Window, shown for the &deg;Atlantic 11&deg;S&deg; data set, with annotation</p></div>
-<p>The Data Window provides a common reference for the Java OceanAtlas plots. As we will see in Browsing, parts of it act like a movable magnifying glass on the data set. The Data Window can be moved anywhere on your monitor by click/holding on the title bar and dragging it.</p>
-
-<p>If you are new to oceanography you might not be aware that one of the methods oceanographers utilize to collect information about the origin and circulation of ocean waters is to occupy - from a research vessel - a line of &deg;stations&deg;  across a region of interest. Such a line is usually called a &deg;section&deg;. A &deg;statio&deg; is a location where the ship stops and takes observations, in this case of the physical/chemical characteristics of the water column. (There are many different types of oceanographic expeditions and observations. Here we focus on the types which produce the data Java OceanAtlas was designed to explore.)</p>
-
-<p>Water column measurements made from the end of the 1800s through the 1970s were typically made by attaching water bottles (with open lids) onto a wire lowered into the ocean. When all the bottles were deployed at the intended levels a &#39;messenger&#39; (brass weight) was dropped down the wire. When a messenger reached a water bottle it closed the bottle, caused a deep-sea reversing thermometer to reverse (and thus break the mercury column and preserve its temperature reading), and release another messenger to head down to the next bottle, and so on.</p>
-
-<p>Beginning in the early 1970&#39;s a new device, the rosette water sampler, began to replace bottle-on-wire casts. The rosette is frame which holds a CTD (an electronic profiling device which samples Conductivity, Temperature, and Depth), ca. 12-36 water sampling bottles, a central closure-control mechanism referred to as a pylon, and sometimes other equipment. The frame is usually attached to an armored conducting cable, and can be lowered into the ocean. An operator on deck can communicate with the underwater package via the conductor in the cable. Typically the CTD profiles are collected as the rosette descends and the water samples are collected (by closing the bottles by electronic remote control) on the up cast, along with CTD values at the times each bottle is closed. The CTD typically supplies the temperature and pressure at which a bottle is closed, and laboratory analyses for other parameters are made from the water collected in the closed bottles. Typically - but not always - salinity, oxygen, and the inorganic nutrient salts nitrate (NO3; usually analyzed as &#39;NO3 + NO2&#39;, with NO2 - which is usually very small - being subtracted out after running analyses for it alone), phosphate (PO4), and silicate (SiO3) are routinely analyzed from the water samples. In recent years increasing attention has been given to analyses of what some oceanographers call &#39;tracers&#39; (although temperature, salinity, oxygen, and nutrients made excellent tracers, too; it&#39;s just habit and nomenclature). These include substances such as CFCs, tritium, helium, radiocarbon, and so on. The list recognized by the WOCE Hydrographic Program Office contains 48 parameters plus 12 ancillary measurements.</p>
-
-<p>Physical oceanographers studying the large-scale water masses tend to make the most consistent use of temperature, salinity, oxygen, and nutrient data from full-depth profiles. Basin-scale work requires basin-spanning data. And so many of the great oceanographic sections cross major basins, include full-depth stations whose horizontal and vertical resolution are reasonably well matched to large ocean scales, and include the full suite of routine hydrographic data. These form the backbone of the ocean data sets included with Java OceanAtlas, along with many shorter sections of proven value and the multi-tracer WOCE Hydrographic Program sections. We tend to focus on the bottle data in OceanAtlas because these are relatively compact, cover the large-scale fields well, and include many parameters of interest.</p>
-
-<p>This Atlantic 11&deg;S section of 80 full-depth T/S/O2/nutrient stations was occupied by scientists from the Woods Hole Oceanographic Institution from Africa to South America during 13 March to 1 April 1983 from the WHOI research vessel Oceanus. It is a favorite Java OceanAtlas demonstration section because it is relatively compact, crosses an interesting ocean region, and the data are of good quality and reasonably complete. We have reversed the station order so that Java OceanAtlas will display the section from west on the left to east on the right.
-	<p>West-to-east and south-to-north are preferred for left-to-right section orientations by the author (Swift) and many of his colleagues at the Scripps Institution of Oceanography. Many of the Java OceanAtlas data files are organized to reflect this preference.</p>
+		<p>This tutorial provides an introduction of the basic use of Java OceanAtlas to explore oceanographic data. It is organized from the most basic features to intermediate ones. Not all features are covered. Users new to Java OceanAtlas will probably want to work through this tutorial in order, because it is written assuming understanding of the previous section. Just click the right arrow at the top or bottom of the page to go to the next section.</p>
+		<p>[NOTE: The guided tour is based upon Java OceanAtlas 4.0. Some features have changed slightly in JOA version 5, but the basic functions are the same.]</p>
+		<p class="oceanography_text">	A bit of basic oceanography is thrown in, too. Such text is indicated by use of blue text.</p>
+		<p>	The appearance (the look and feel) of Java OceanAtlas dialog boxes and windows is different on Windows, Mac OS, and UNIX computers. Java OceanAtlas uses the "native" look and feel of your computer's operating system. Where possible, JOA has been changed to adhere to specific user-interface standards for your operating system. The examples shown in this tutorial were created on a Windows computer.</p>
+	</div>
 </div>
-</div>
-        </div>  
-        <div id="right" class="span4">          
+        </div>   
+        <div id="right" class="span4">        
 <h1>Guided Tour of Java OceanAtlas</h1>
 <ul>
   <li class="active"><a href="/tour/1">Basic Features</a></li>
@@ -54,7 +42,7 @@ css: Data_homepage
   <li><a href="/tour/16">Java OceanAtlas Data Files</a></li>
 </ul>
 <p><a href="/joa" class="btn">Back to JOA application</a></p>
-        </div>       
+        </div> 
       </div>
       </div>
      
