@@ -35,7 +35,14 @@ css: Data_homepage
 </section><!-- #call-to-action -->
 
 <style>
-  li
+ul
+{
+list-style-type: none;
+padding: 0;
+margin: 0;
+text-align: right;
+}
+li
 {
 background-position: 100% .4em;
 padding-right: .6em;
@@ -48,9 +55,11 @@ padding-right: .6em;
       <div class="col-lg-9 text-center text-lg-right" style="flex:0 0 100%;max-width:100%">
         <h3 class="cta-title" style="text-align:right">About Java OceanAtlas</h3>
        <p class="cta-text" style="text-align:right">
+         <ul>
           <li><a href="http://joa.ucsd.edu/joa/joa_download_instructions.html">General installation instructions</a></li>
           <li><a href="http://joa.ucsd.edu/joa/joa_download_mac.html">Mac specific installation instructions</a></li>
           <li><a href="http://joa.ucsd.edu/joa/joa_download_windows.html">Windows specific installation instructions</a></li>
+        </ul>
         </p>
       </div>
         </div>
