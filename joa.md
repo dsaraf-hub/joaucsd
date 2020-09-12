@@ -37,9 +37,6 @@ css: Data_homepage
 <style>
 ul
 {
-list-style-type: none;
-padding: 0;
-margin: 0;
 text-align: right;
 }
 li
