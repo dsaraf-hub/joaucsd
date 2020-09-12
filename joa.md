@@ -22,7 +22,7 @@ css: Data_homepage
 <section id="call-to-action1">
 <section id="call-to-action3">
   <div class="container wow fadeIn">
-      <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:50%">
+      <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
         <h3 class="cta-title">Install</h3>
         <p class="cta-text">
           <li><a href="http://joa.ucsd.edu/joa/joa_download_instructions.html">General installation instructions</a></li>
