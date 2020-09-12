@@ -25,18 +25,19 @@ css: Data_homepage
       <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
         <h3 class="cta-title">Install</h3>
         <p class="cta-text">
-          <li><a href="http://joa.ucsd.edu/joa/joa_download_instructions.html">General installation instructions</a></li>
-          <li><a href="http://joa.ucsd.edu/joa/joa_download_mac.html">Mac specific installation instructions</a></li>
-          <li><a href="http://joa.ucsd.edu/joa/joa_download_windows.html">Windows specific installation instructions</a></li>
+          <li style="width:50%"><a href="http://joa.ucsd.edu/joa/joa_download_instructions.html">General installation instructions</a></li>
+          <li style="width:50%"><a href="http://joa.ucsd.edu/joa/joa_download_mac.html">Mac specific installation instructions</a></li>
+          <li style="width:50%"><a href="http://joa.ucsd.edu/joa/joa_download_windows.html">Windows specific installation instructions</a></li>
         </p>
          <h3 class="cta-title" style="text-align:right">Guides</h3>
        <p class="cta-text" style="text-align:right">
          <ul>
-          <li><a href="http://joa.ucsd.edu/joa/joa_download_instructions.html">JOA User Guide</a></li>
-          <li><a href="http://joa.ucsd.edu/joa/joa_download_mac.html">Managing JOA features</a></li>
+          <li style="width:50%"><a href="http://joa.ucsd.edu/joa/joa_download_instructions.html">JOA User Guide</a></li>
+          <li style="width:50%"><a href="http://joa.ucsd.edu/joa/joa_download_mac.html">Managing JOA features</a></li>
         </ul>
+        <a class="cta-btn align-middle" href="#">Guided Tour</a>
         </p>
-         <a class="cta-btn align-middle" href="#">Guided Tour</a>
+   
       </div>
     </div>
 </section>
