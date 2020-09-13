@@ -25,71 +25,49 @@ css: Data_homepage
       <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
         <h3 class="cta-title">Install</h3>
         <p class="cta-text">
-          <li style="width:50%"><a href="http://joa.ucsd.edu/joa/joa_download_instructions.html">General installation instructions</a></li>
-          <li style="width:50%"><a href="http://joa.ucsd.edu/joa/joa_download_mac.html">Mac specific installation instructions</a></li>
-          <li style="width:50%"><a href="http://joa.ucsd.edu/joa/joa_download_windows.html">Windows specific installation instructions</a></li>
-        </p>
-         <h3 class="cta-title" style="text-align:right">Guides</h3>
-       <p class="cta-text" style="text-align:right">
-         <ul>
-          <li style="width:50%"><a href="http://joa.ucsd.edu/joa/joa_download_instructions.html">JOA User Guide</a></li>
-          <li style="width:50%"><a href="http://joa.ucsd.edu/joa/joa_download_mac.html">Managing JOA features</a></li>
-        </ul>
-        <a class="cta-btn align-middle" href="#">Guided Tour</a>
-        </p>
-   
-      </div>
-    </div>
-</section>
-</section><!-- #call-to-action -->
-
-<style>
-ul
-{
-text-align: right;
-direction: rtl;
-padding-inline-start: 20px;
-}
-li
-{
-background-position: 100% .4em;
-padding-right: .6em;
-}
-</style>
-
-  <section id="call-to-action">
-        <div class="container wow fadeIn">
-      <div class="row">
-      <div class="col-lg-9 text-center text-lg-right" style="flex:0 0 100%;max-width:100%">
-        <h3 class="cta-title" style="text-align:right">Guides</h3>
-         <a class="cta-btn align-middle" href="#">Guided Tour</a>
-       <p class="cta-text" style="text-align:right">
-         <ul>
-          <li><a href="http://joa.ucsd.edu/joa/joa_download_instructions.html">JOA User Guide</a></li>
-          <li><a href="http://joa.ucsd.edu/joa/joa_download_mac.html">Managing JOA features</a></li>
-        </ul>
-        </p>
-        
-      </div>
-        </div>
-        </div>
-  </section>
-  
-  <section id="call-to-action1">
-<section id="call-to-action3">
-  <div class="container wow fadeIn">
-      <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:50%">
-        <h3 class="cta-title">Install</h3>
-        <p class="cta-text">
           <li><a href="http://joa.ucsd.edu/joa/joa_download_instructions.html">General installation instructions</a></li>
           <li><a href="http://joa.ucsd.edu/joa/joa_download_mac.html">Mac specific installation instructions</a></li>
           <li><a href="http://joa.ucsd.edu/joa/joa_download_windows.html">Windows specific installation instructions</a></li>
         </p>
+   <h3 class="cta-title">Support Files</h3>
+        <p class="cta-text">
+          <li><a href="http://joa.ucsd.edu/joa/etopo5.html">Bathymetry Add-ins (Etopo5 and Etopo2)</a></li>
+        </p>
       </div>
     </div>
 </section>
 </section><!-- #call-to-action -->
 
+<section id="call-to-action1">
+<section id="call-to-action3">
+    <div class="container wow fadeIn">
+      <div class="row">
+      <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
+          <h3 class="cta-title">JOA for earlier MacOS and Windows versions (JOA 5.3)</h3>
+          <p class="cta-text">JOA 5.3 is tested and stable, but there are known problems, including issues with
+netCDF files and the need to make a plot before browsing.</p>
+          <br>
+        </div>
+        <div class="col-lg-9 text-center text-lg-left">   
+          <h3 class="cta-title" style="font-size:20px;">Mac OS X</h3>
+          <p class="cta-text">Tested for Mac OS X 10.11 or earlier. It may work on earlier versions of Mac OS X. This version of JOA contains an embedded Java environment and does not require a separate Java download.</p>
+          <br><br>
+          <h3 class="cta-title" style="font-size:20px;">Windows</h3>
+          <p class="cta-text">Tested for Windows 7, 8, and 8.1. It has not been tested under Windows 10 or XP. This version of JOA contains an embedded Java environment and does not require a separate Java download.</p>
+        </div>
+        <div class="col-lg-3 cta-btn-container text-center" style="display:block;">
+          <h3 class="cta-title" style="font-size:20px;">Mac OS X</h3>
+          <a class="cta-btn align-middle" href="#">Get JOA 5.3</a>
+          <p class="cta-text" style="text-align:center;">(71 MB)</p>
+          <br>
+            <h3 class="cta-title" style="font-size:20px;">Windows</h3>
+          <a class="cta-btn align-middle" href="#">Get JOA 5.3</a>
+          <p class="cta-text" style="text-align:center;">(74 MB)</p>
+      </div>
+    </div>
+  </div>
+  </section>
+    </section>
 <!--==========================
 Call To Action Section
 ============================-->
@@ -154,5 +132,29 @@ netCDF files and the need to make a plot before browsing.</p>
   </section>
     </section>
 
-
+<section id="call-to-action1">
+<section id="call-to-action3">
+    <div class="container wow fadeIn">
+      <div class="row">
+        <div class="col-lg-9 text-center text-lg-left">   
+        <h3 class="cta-title" style="font-size:20px;">Guided Tour</h3>
+          <p class="cta-text">This tutorial provides an introduction of the basic use of Java OceanAtlas to explore oceanographic data. It is organized from the most basic features to intermediate ones.</p>
+          <br><br>
+          <h3 class="cta-title" style="font-size:20px;">JOA User Guide</h3>
+          <p class="cta-text">The User Guide is an attempt to document Java OceanAtlas features in an indexed and consistent manner, a goal which in some ways is nearly out of reach.</p>
+          <br><br>
+          <h3 class="cta-title" style="font-size:20px;">Managing JOA Features</h3>
+          <p class="cta-text">Enable built-in JOA features, such as additional plot and calculation types. Also use to temporarily disable features.</p>
+        </div>
+        <div class="col-lg-3 cta-btn-container text-center" style="display:block;">
+          <a class="cta-btn align-middle" href="#">Guided Tour</a>
+          <br>
+          <a class="cta-btn align-middle" href="#">User Guide (PDF)</a>
+          <br>
+          <a class="cta-btn align-middle" href="#">JOA Features</a>
+      </div>
+    </div>
+  </div>
+  </section>
+    </section>
 
