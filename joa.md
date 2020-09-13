@@ -48,6 +48,7 @@ ul
 {
 text-align: right;
 direction: rtl;
+padding-inline-start: 20px;
 }
 li
 {
@@ -61,13 +62,14 @@ padding-right: .6em;
       <div class="row">
       <div class="col-lg-9 text-center text-lg-right" style="flex:0 0 100%;max-width:100%">
         <h3 class="cta-title" style="text-align:right">Guides</h3>
+         <a class="cta-btn align-middle" href="#">Guided Tour</a>
        <p class="cta-text" style="text-align:right">
          <ul>
           <li><a href="http://joa.ucsd.edu/joa/joa_download_instructions.html">JOA User Guide</a></li>
           <li><a href="http://joa.ucsd.edu/joa/joa_download_mac.html">Managing JOA features</a></li>
         </ul>
         </p>
-         <a class="cta-btn align-middle" href="#">Guided Tour</a>
+        
       </div>
         </div>
         </div>
