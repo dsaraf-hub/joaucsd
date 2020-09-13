@@ -30,9 +30,7 @@ css: Data_homepage
           <li><a href="http://joa.ucsd.edu/joa/joa_download_windows.html">Windows specific installation instructions</a></li>
         </p>
    <h3 class="cta-title">Support Files</h3>
-        <p class="cta-text">
           <li><a href="http://joa.ucsd.edu/joa/etopo5.html">Bathymetry Add-ins (Etopo5 and Etopo2)</a></li>
-        </p>
       </div>
     </div>
 </section>
@@ -113,10 +111,11 @@ netCDF files and the need to make a plot before browsing.</p>
           <p class="cta-text">Enable built-in JOA features, such as additional plot and calculation types. Also use to temporarily disable features.</p>
         </div>
         <div class="col-lg-3 cta-btn-container text-center" style="display:block;">
+          <br><br>
           <a class="cta-btn align-middle" href="#">Guided Tour</a>
-          <br>
+          <br><br><br><br><br><br><br><br><br>
           <a class="cta-btn align-middle" href="#">User Guide (PDF)</a>
-          <br>
+          <br><br><br><br><br><br><br><br><br>
           <a class="cta-btn align-middle" href="#">JOA Features</a>
       </div>
     </div>
