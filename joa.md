@@ -101,6 +101,7 @@ netCDF files and the need to make a plot before browsing.</p>
     <div class="container wow fadeIn">
       <div class="row">
         <div class="col-lg-9 text-center text-lg-left">   
+         <h3 class="cta-title">Guides</h3>
         <h3 class="cta-title" style="font-size:20px;">Guided Tour</h3>
           <p class="cta-text">This tutorial provides an introduction of the basic use of Java OceanAtlas to explore oceanographic data. It is organized from the most basic features to intermediate ones.</p>
           <br><br>
