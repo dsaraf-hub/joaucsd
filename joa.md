@@ -36,11 +36,8 @@ css: Data_homepage
       </div>
     </div>
 </section>
-</section><!-- #call-to-action -->
-    </section>
-<!--==========================
-Call To Action Section
-============================-->
+</section>
+
 <section id="call-to-action">
     <div class="container wow fadeIn">
       <div class="row">
@@ -102,8 +99,7 @@ netCDF files and the need to make a plot before browsing.</p>
   </section>
     </section>
 
-<section id="call-to-action1">
-<section id="call-to-action3">
+<section id="call-to-action">
     <div class="container wow fadeIn">
       <div class="row">
         <div class="col-lg-9 text-center text-lg-left">   
@@ -126,5 +122,4 @@ netCDF files and the need to make a plot before browsing.</p>
     </div>
   </div>
   </section>
-    </section>
 
