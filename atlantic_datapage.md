@@ -32,7 +32,7 @@ ocean: Atlantic
                    {% for entry in item.years%}
                      <li>	<span style="color:white"><i class="fa fa-plus-square" style="color:white"></i>{{entry.year}}</span>
                          <ul>
-                             {% for entry in item.files%}
+                             {% for entry in item.years.files%}
                              <li> <span style="color:white">{{entry.file}}</span> </li>
                              {% endfor %}
                          </ul>
