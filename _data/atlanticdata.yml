@@ -6,7 +6,11 @@ section:
           - file: AR07W_1990_bot_clean_hy1.csv
           - file: AR07W_1990_bot_clean.joa      
           - file: AR07W_1990_ctd_clean.joa       
-
+      - year: 1991
+        files: 
+          - file: AR07W_1991_bot_clean_hy1.csv
+          - file: AR07W_1991_bot_clean.joa      
+          - file: AR07W_1991_ctd_clean.joa 
           
        
 yeardropdown:
