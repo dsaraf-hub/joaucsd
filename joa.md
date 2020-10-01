@@ -42,7 +42,7 @@ css: Data_homepage
       <div class="row">
         <div class="col-lg-9 text-center text-lg-left" style="flex:0 0 100%;max-width:100%">
           <h3 class="cta-title">Download Current Versions</h3>
-          <h3 class="cta-title">JOA 5.5 macOS 10.14 or earlier</h3>
+          <h3 class="cta-title">JOA 5.5 for Windows, macOS 10.14 or earlier</h3>
           <p class="cta-text">These versions of JOA have been extensively tested, but there may be problems. If reporting a problem, please check and report the specific version and release date for your copy, which you can find via  'About Java OceanAtlas' under the Java OceanAtlas menu.</p>
           <br>
         </div>
@@ -54,7 +54,11 @@ css: Data_homepage
           <p class="cta-text">Tested for Windows 10. It has not been tested under Windows 8.1 or earlier versions of Windows. This version of JOA contains an embedded Java environment and does not require a separate Java download</p>
         </div>
         <div class="col-lg-3 cta-btn-container text-center">
-          <h3 class="cta-title" style="font-size:20px;">macOS</h3>
+          <h3 class="cta-title" style="font-size:20px;">macOS 10.15</h3>
+          <a class="cta-btn align-middle" href="#">Get JOA 5.5</a>
+          <p class="cta-text" style="text-align:center;">(71 MB)</p>
+          <br>
+          <h3 class="cta-title" style="font-size:20px;">macOS 10.12-10.14</h3>
           <a class="cta-btn align-middle" href="#">Get JOA 5.5</a>
           <p class="cta-text" style="text-align:center;">(71 MB)</p>
           <br>
