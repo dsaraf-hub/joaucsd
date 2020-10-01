@@ -50,7 +50,7 @@ css: Data_homepage
             <br><br><br>
           <h3 class="cta-title" style="font-size:20px;">macOS</h3>
           <p class="cta-text">Tested on macOS High Sierra (10.13) and Mojave (10.14). It may work on earlier versions of Mac OS X. This version of JOA contains an embedded Java environment and does not require a separate Java download.</p>
-          <br><br>
+          <br><br><br><br><br>
           <h3 class="cta-title" style="font-size:20px;">Windows</h3>
           <p class="cta-text">Tested for Windows 10. It has not been tested under Windows 8.1 or earlier versions of Windows. This version of JOA contains an embedded Java environment and does not require a separate Java download</p>
         </div>
